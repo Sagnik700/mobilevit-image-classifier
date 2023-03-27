@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mobilevit Image Classifier</string>
+    <string name="process">Process</string>
+    <string name="sentiment">Sentiment</string>
+    <string name="prediction">:Prediction:</string>
+    <string name="Sensitive">Sensitive</string>
+    <string name="NonSensitive">Non-Sensitive</string>
+    <string-array name="model_types">
+        <item>VIT</item>
+    </string-array>
+</resources>
